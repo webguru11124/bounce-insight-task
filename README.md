@@ -279,10 +279,6 @@ This application uses NASA's Open APIs available at https://api.nasa.gov/
 4. Push to branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - NASA for providing incredible open APIs and data
